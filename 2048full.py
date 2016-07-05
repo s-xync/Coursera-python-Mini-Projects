@@ -52,9 +52,9 @@ class TwentyFortyEight:
     def __init__(self, grid_height, grid_width):
         
         
-        self.gridValue=dict()
-        self.gridHeight = grid_height
-        self.gridWidth = grid_width
+        self.grid_value=dict()
+        self.grid_height = grid_height
+        self.grid_width = grid_width
         self.reset()
     def reset(self):
         """
