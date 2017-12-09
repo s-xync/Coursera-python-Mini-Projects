@@ -1,7 +1,14 @@
+"""
+To play this game, 
+1. Copy the full program
+2. Visit www.codeskulptor.org
+3. Paste the copied program in the programming area(left side)
+4. Click the run button on the top-left corner
+5. Enjoy! (:
+"""
+
 import simplegui
-
 import math
-
 import random
 
 WIDTH = 800
